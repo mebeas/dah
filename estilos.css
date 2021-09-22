@@ -1,0 +1,59 @@
+body{
+    background-color:white;
+}
+
+.header{
+    color:blanchedalmond;
+    text-align: center;
+    background-color:rgb(4, 21, 71);
+    border-radius: 5px;
+
+}
+.paragraf-footer{
+    width: 98%;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: column;
+    bottom:5px;
+    position:fixed;
+    color:blanchedalmond;
+    align-content: center;
+    text-align: center;
+    background-color:rgb(4, 21, 71);
+}
+.item1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.img-terapy{
+    width: 50vh;
+    height: auto;
+   margin: 15px;
+}
+ul{
+    font-family: 'Oswald', sans-serif;
+    font-size:x-large;
+}
+.info1{
+    margin-right: 10%;
+    margin-left: 10%;
+    border-radius: 5px;
+    
+
+}
+p{
+    font-family: 'Oswald', sans-serif;
+    font-size: medium;
+}
+.item2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: space-between;
+}
+.info2{
+    margin-right: 10%;
+    margin-left: 10%;
+    border-radius: 5px;
+}
